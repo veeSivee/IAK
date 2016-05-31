@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brazil">BRAZIL</string>
+    <string name="bulgaria">BULGARIA</string>
+    <string name="canada">CANADA</string>
+    <string name="czech_republic">CZECH REPUBLIC</string>
+    <string name="france">FRANCE</string>
+    <string name="germany">GERMANY</string>
+    <string name="netherlands">NETHERLANDS</string>
+    <string name="norway">NORWAY</string>
+    <string name="poland">POLAND</string>
+    <string name="slovakia">SLOVAKIA</string>
+    <string name="slovenia">SLOVENIA</string>
+    <string name="spain">SPAIN
+    </string>
+    <string name="united_kingdom">UNITED KINGDOM</string>
+    <string name="united_states">UNITED STATES</string>
+
+    <string name="code_brazil">BR</string>
+    <string name="code_bulgaria">BG</string>
+    <string name="code_canada">CA</string>
+    <string name="code_czech_republic">CZ</string>
+    <string name="code_france">FR</string>
+    <string name="code_germany">DE</string>
+    <string name="code_netherlands">NL</string>
+    <string name="code_norway">NO</string>
+    <string name="code_poland">PL</string>
+    <string name="code_slovakia">SK</string>
+    <string name="code_slovenia">SI</string>
+    <string name="code_spain">ES</string>
+    <string name="code_united_kingdom">GB</string>
+    <string name="code_united_states">US</string>
+</resources>

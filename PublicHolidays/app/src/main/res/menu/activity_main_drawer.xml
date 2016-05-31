@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"
+                android:actionProviderClass=
+                    "android.widget.ShareActionProvider"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_brazil"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/brazil" />
+
+        <item
+            android:id="@+id/nav_bulgaria"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/bulgaria" />
+        <item
+            android:id="@+id/nav_canada"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/canada" />
+        <item
+            android:id="@+id/nav_czech_republic"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/czech_republic" />
+        <item
+            android:id="@+id/nav_france"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/france" />
+        <item
+            android:id="@+id/nav_germany"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/germany" />
+        <item
+            android:id="@+id/nav_netherlands"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/netherlands" />
+        <item
+            android:id="@+id/nav_norway"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/norway" />
+        <item
+            android:id="@+id/nav_poland"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/poland" />
+        <item
+            android:id="@+id/nav_slovakia"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/slovakia" />
+        <item
+            android:id="@+id/nav_slovenia"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/slovenia" />
+        <item
+            android:id="@+id/nav_spain"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/spain" />
+        <item
+            android:id="@+id/nav_united_kingdom"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/united_kingdom" />
+        <item
+            android:id="@+id/nav_united_states"
+            android:icon="@mipmap/ic_calendar"
+            android:title="@string/united_states" />
+    </group>
+
+</menu>
